@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Mathieu FONTAINE - Télécom Paris</title>
+    <link>https://matfontaine.github.io/publication/</link>
+      <atom:link href="https://matfontaine.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matfontaine.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://matfontaine.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A lightweight dual-stage framework for personalized speech enhancement based on DeepFilterNet2</title>
+      <link>https://matfontaine.github.io/publication/serre-2024-lightweight/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/serre-2024-lightweight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLA-Grad: A Griffin-Lim Extended Waveform Generation Diffusion Model</title>
+      <link>https://matfontaine.github.io/publication/liu-2024-gla/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/liu-2024-gla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online speaker diarization of meetings guided by speech separation</title>
+      <link>https://matfontaine.github.io/publication/gruttadauria-2024-online/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/gruttadauria-2024-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis</title>
+      <link>https://matfontaine.github.io/publication/letzelter-2024-resilient/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/letzelter-2024-resilient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpecDiff-GAN: A Spectrally-Shaped Noise Diffusion GAN for Speech and Music Synthesis</title>
+      <link>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winner-takes-all learners are geometry-aware conditional density estimators</title>
+      <link>https://matfontaine.github.io/publication/letzelter-2024-winner/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/letzelter-2024-winner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural steerer: Novel steering vector synthesis with a causal neural field over frequency and source positions</title>
+      <link>https://matfontaine.github.io/publication/di-2023-neural/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/di-2023-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Domain Audio Source Separation Based on Gaussian Processes with Deep Kernel Learning</title>
+      <link>https://matfontaine.github.io/publication/nugraha-2023-time/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/nugraha-2023-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoregressive Moving Average Jointly-Diagonalizable Spatial Covariance Analysis for Joint Source Separation and Dereverberation</title>
+      <link>https://matfontaine.github.io/publication/sekiguchi-2022-autoregressive/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/sekiguchi-2022-autoregressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direction-aware adaptive online neural speech enhancement with an augmented reality headset in real noisy conversational environments</title>
+      <link>https://matfontaine.github.io/publication/sekiguchi-2022-direction/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/sekiguchi-2022-direction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direction-Aware Joint Adaptation of Neural Speech Enhancement and Recognition in Real Multiparty Conversational Environments</title>
+      <link>https://matfontaine.github.io/publication/du-2022-direction/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/du-2022-direction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNN-free Low-Latency Adaptive Speech Enhancement Based on Frame-Online Beamforming Powered by Block-Online Fastmnmf</title>
+      <link>https://matfontaine.github.io/publication/nugraha-2022-dnn/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/nugraha-2022-dnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elliptically Contoured Alpha-Stable Representation for MUSIC-Based Sound Source Localization</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2022-elliptically/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2022-elliptically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-based fast multichannel nonnegative matrix factorization for blind source separation</title>
+      <link>https://matfontaine.github.io/publication/nugraha-2022-flow/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/nugraha-2022-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Fast Multichannel Nonnegative Matrix Factorization Based on Gaussian Scale Mixtures for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2022-generalized/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2022-generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alpha-Stable Autoregressive Fast Multichannel Nonnegative Matrix Factorization for Joint Speech Enhancement and Dereverberation</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2021-alpha/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2021-alpha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoregressive fast multichannel nonnegative matrix factorization for joint blind source separation and dereverberation</title>
+      <link>https://matfontaine.github.io/publication/sekiguchi-2021-autoregressive/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/sekiguchi-2021-autoregressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast multichannel correlated tensor factorization for blind source separation</title>
+      <link>https://matfontaine.github.io/publication/yoshii-2021-fast/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/yoshii-2021-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural full-rank spatial covariance analysis for blind source separation</title>
+      <link>https://matfontaine.github.io/publication/bando-2021-neural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/bando-2021-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Multichannel Speech Separation Based on a Phone-and Speaker-Aware Deep Generative Model of Speech Spectrograms</title>
+      <link>https://matfontaine.github.io/publication/du-2021-semi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/du-2021-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-based independent vector analysis for blind source separation</title>
+      <link>https://matfontaine.github.io/publication/nugraha-2020-flow/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/nugraha-2020-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separation of alpha-stable random vectors</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2020-separation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2020-separation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Robust Speech Enhancement Based on Alpha-Stable Fast Multichannel Nonnegative Matrix Factorization</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2020-unsupervised/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2020-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cauchy multichannel speech enhancement with a deep speech prior</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2019-cauchy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2019-cauchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processus alpha-stables pour le traitement du signal</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2019-processus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2019-processus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multichannel audio modeling with elliptically stable tensor decomposition</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2018-multichannel/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2018-multichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the parameterized Wiener filter with alpha-stable processes</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2017-explaining/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2017-explaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable source localization with multichannel alpha-stable distributions</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2017-scalable/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2017-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketching for nearfield acoustic imaging of heavy-tailed sources</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2017-sketching/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2017-sketching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
